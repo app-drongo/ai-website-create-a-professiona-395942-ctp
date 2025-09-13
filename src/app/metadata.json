@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "title": "Home | create-a-professional-7651",
+    "description": "Home page for create-a-professional-7651"
+  },
+  {
+    "name": "Properties",
+    "route": "/properties",
+    "title": "Properties | create-a-professional-7651",
+    "description": "Properties page for create-a-professional-7651"
+  },
+  {
+    "name": "Property Detail",
+    "route": "/properties/:id",
+    "title": "Property Detail | create-a-professional-7651",
+    "description": "Property Detail page for create-a-professional-7651"
+  },
+  {
+    "name": "About",
+    "route": "/about",
+    "title": "About | create-a-professional-7651",
+    "description": "About page for create-a-professional-7651"
+  },
+  {
+    "name": "Reviews",
+    "route": "/reviews",
+    "title": "Reviews | create-a-professional-7651",
+    "description": "Reviews page for create-a-professional-7651"
+  },
+  {
+    "name": "Contact",
+    "route": "/contact",
+    "title": "Contact | create-a-professional-7651",
+    "description": "Contact page for create-a-professional-7651"
+  },
+  {
+    "name": "Booking",
+    "route": "/booking",
+    "title": "Booking | create-a-professional-7651",
+    "description": "Booking page for create-a-professional-7651"
+  },
+  {
+    "name": "FAQ",
+    "route": "/faq",
+    "title": "FAQ | create-a-professional-7651",
+    "description": "FAQ page for create-a-professional-7651"
+  },
+  {
+    "name": "Policies",
+    "route": "/policies",
+    "title": "Policies | create-a-professional-7651",
+    "description": "Policies page for create-a-professional-7651"
+  }
+]
